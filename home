@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Market Intelligence Cell (MIC)</title>
+  <meta name="description" content="Market Intelligence Cell under HADP - Strengthening Agricultural Marketing in J&K" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #2c3e50;
+      color: white;
+      padding: 1rem 2rem;
+      text-align: center;
+    }
+    nav {
+      margin-top: 0.5rem;
+    }
+    nav a {
+      color: white;
+      margin: 0 1rem;
+      text-decoration: none;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 2rem;
+      background-color: white;
+      margin: 1rem auto;
+      max-width: 1000px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      border-radius: 10px;
+    }
+    footer {
+      background-color: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Market Intelligence Cell (MIC)</h1>
+    <p>HADP - Strengthening Agricultural Marketing in J&K</p>
+    <nav>
+      <a href="#overview">Overview</a>
+      <a href="#roles">Roles</a>
+      <a href="#forecasts">Price Forecasts</a>
+      <a href="#visuals">Visuals</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="overview">
+    <h2>Overview</h2>
+    <p>Market Intelligence Cell (MIC) is an initiative under the Holistic Agriculture Development Programme (HADP), aimed at enhancing agricultural marketing strategies through data-driven insights and digital infrastructure.</p>
+  </section>
+
+  <section id="roles">
+    <h2>Roles & Objectives</h2>
+    <ul>
+      <li>Monitor market trends of major commodities.</li>
+      <li>Develop price forecasting models for seasonal planning.</li>
+      <li>Support decision-making for farmers and traders.</li>
+      <li>Disseminate real-time market information.</li>
+    </ul>
+  </section>
+
+  <section id="forecasts">
+    <h2>Price Forecasts</h2>
+    <p>We provide predictive price analysis using statistical and machine learning tools. Check back soon for detailed visual forecasts.</p>
+  </section>
+
+  <section id="visuals">
+    <h2>Interactive Visuals</h2>
+    <p>Coming soon: Graphs and dashboards representing commodity price flows and trends in Jammu & Kashmir.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:mic@jkagri.gov.in">mic@jkagri.gov.in</a></p>
+    <p>Department of Agriculture Marketing, J&K</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Market Intelligence Cell | Designed for HADP</p>
+  </footer>
+</body>
+</html>
